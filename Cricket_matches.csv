@@ -1,20 +1,20 @@
 Category, Below 50 matches, 50-100 matches, 100-200 matches, 200-300 matches, Above 300 matches
-Test Matches, 10, 15, 20, 5, 2
-One Day Internationals (ODIs), 8, 20, 10, 7, 3
-Twenty20 Internationals (T20Is), 12, 12, 8, 6, 2
-Domestic First-Class, 15, 20, 15, 9, 3
-Domestic One-Day, 20, 15, 10, 10, 3
-Domestic T20, 15, 15, 10, 7, 3
-Youth Matches (U-19), 5, 20, 25, 15, 5
-Club Cricket, 20, 25, 15, 10, 5
-Beach Cricket, 30, 30, 20, 15, 5
-Street Cricket, 25, 35, 20, 15, 5
-Indoor Cricket, 20, 35, 25, 15, 5
-Gully Cricket, 25, 35, 20, 15, 5
-Corporate Cricket, 20, 35, 25, 15, 5
-Celebrity Cricket Matches, 30, 30, 20, 15, 5
-Inter-school Cricket, 25, 35, 20, 15, 5
-Inter-college Cricket, 20, 35, 25, 15, 5
-Inter-university Cricket, 25, 35, 20, 15, 5
-Women's Cricket, 30, 30, 20, 15, 5
-Veteran's Cricket, 20, 35, 25, 15, 5
+Test Matches, 0.25, 0.35, 0.25, 0.1, 0.05
+One Day Internationals (ODIs), 0.2, 0.4, 0.2, 0.15, 0.05
+Twenty20 Internationals (T20Is), 0.3, 0.3, 0.2, 0.15, 0.05
+Domestic First-Class, 0.2, 0.35, 0.25, 0.15, 0.05
+Domestic One-Day, 0.25, 0.3, 0.2, 0.2, 0.05
+Domestic T20, 0.3, 0.3, 0.2, 0.15, 0.05
+Youth Matches (U-19), 0.15, 0.4, 0.25, 0.15, 0.05
+Club Cricket, 0.25, 0.35, 0.2, 0.15, 0.05
+Beach Cricket, 0.3, 0.3, 0.2, 0.15, 0.05
+Street Cricket, 0.25, 0.35, 0.2, 0.15, 0.05
+Indoor Cricket, 0.2, 0.35, 0.25, 0.15, 0.05
+Gully Cricket, 0.25, 0.35, 0.2, 0.15, 0.05
+Corporate Cricket, 0.2, 0.35, 0.25, 0.15, 0.05
+Celebrity Cricket Matches, 0.3, 0.3, 0.2, 0.15, 0.05
+Inter-school Cricket, 0.25, 0.35, 0.2, 0.15, 0.05
+Inter-college Cricket, 0.2, 0.35, 0.25, 0.15, 0.05
+Inter-university Cricket, 0.25, 0.35, 0.2, 0.15, 0.05
+Women's Cricket, 0.3, 0.3, 0.2, 0.15, 0.05
+Veteran's Cricket, 0.2, 0.35, 0.25, 0.15, 0.05
