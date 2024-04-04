@@ -1,0 +1,16 @@
+Sport,Participation Rate (%),Professional League Interest (0-100),Youth Engagement (0-100),International Competition Level (0-100),Equipment Cost Index (1-10)
+Football,35,80,90,70,6
+Basketball,30,75,80,65,5
+Baseball,25,60,70,55,4
+Soccer,40,85,85,95,3
+Tennis,20,55,40,60,8
+Golf,10,50,30,45,7
+Swimming,15,45,60,50,2
+Track and Field,5,65,20,40,1
+Volleyball,12,40,50,35,9
+Cycling,18,35,45,75,10
+Boxing,8,70,35,80,5
+Gymnastics,6,30,15,90,4
+Ice Hockey,28,90,95,85,6
+Rugby,22,25,25,30,7
+Cricket,14,20,10,25,3
